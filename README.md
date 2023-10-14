@@ -146,5 +146,6 @@ df5
 ## Robust Scaler
 <img width="261" alt="273395179-fac1b4af-710a-4be7-aaa6-a6e1dcb6204a" src="https://github.com/lokeshrahulv/ODD2023-Datascience-Ex-05/assets/118423842/cf109c56-5f03-4123-a37c-290757ae6c5f">
 
+
 ## Result
 Thus the Feature Generation and Feature Scaling process is applied to the given data set.
